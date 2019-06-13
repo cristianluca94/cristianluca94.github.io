@@ -1,0 +1,27 @@
+body {
+    color:blueviolet;
+}
+
+p {
+    color:darkgoldenrod;
+}
+
+/* #firstParagraph {
+    color:darkkhaki;
+}
+
+.colorParagraph {
+    color:darksalmon;
+} */
+
+/* div p {
+    color:gold;
+} */
+
+div, p {
+    color:brown;
+}
+
+.colorDiv1.colorDiv2 {
+    color:red;
+}
